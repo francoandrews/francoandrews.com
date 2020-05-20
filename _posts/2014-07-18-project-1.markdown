@@ -3,7 +3,7 @@ title: Residential Development
 subtitle: Architectural Design
 layout: default
 modal-id: 1
-date: 2018-01-01
+date: 2018-06-01
 img: aria.jpg
 thumbnail: aria-thumbnail.jpg
 alt: image-alt

@@ -3,7 +3,7 @@ title: Children's Ludic Center
 subtitle: Architectural Design
 layout: default
 modal-id: 6
-date: 2018-06-01
+date: 2018-01-01
 img: ludic-center.jpg
 thumbnail: ludic-center-thumbnail.jpg
 alt: image-alt

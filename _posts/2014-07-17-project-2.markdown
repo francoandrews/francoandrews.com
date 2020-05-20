@@ -3,7 +3,7 @@ title: Sales Center
 subtitle: Architectural Design
 layout: default
 modal-id: 2
-date: 2018-02-01
+date: 2018-05-01
 img: salescenter.jpg
 thumbnail: salescenter-thumbnail.jpg
 alt: image-alt

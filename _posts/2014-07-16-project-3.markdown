@@ -3,7 +3,7 @@ title: Conditioning Center
 subtitle: Architectural Design & Rendering
 layout: default
 modal-id: 3
-date: 2018-03-01
+date: 2018-04-01
 img: conditioning-center.jpg
 thumbnail: conditioning-center-thumbnail.jpg
 alt: image-alt

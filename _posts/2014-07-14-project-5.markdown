@@ -3,7 +3,7 @@ title: Conceptual Design
 subtitle: Architectural Design
 layout: default
 modal-id: 5
-date: 2018-05-01
+date: 2018-02-01
 img: elevation.png
 thumbnail: elevation-thumbnail.jpg
 alt: image-alt
