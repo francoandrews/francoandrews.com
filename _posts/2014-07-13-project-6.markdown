@@ -1,15 +1,17 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Children's Ludic Center
+subtitle: Architectural Design
 layout: default
 modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
+date: 2006-02-01
+img: ludic-center.jpg
+thumbnail: ludic-center-thumbnail.jpg
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: February 2006
+client: Elementary School
+category: Architectural Design
+description: The Children's Ludic Center is the winning proposal of a university competition held by the Universidad La Gran Colombia to measure the faculty's overall design level. The challenge was to design a building where a small school in the nearby town of Circasia, Quindio Colombia could educate its smaller students through active playtime or “Ludic” activities.
+
+The volume itself was conceived as a pure form in order to inspire stability and provide a recognizable shape for children. Due to lot size and shape, the rectangular shaped building was oriented North-South, which means most of the façade’s surface was directly exposed to direct sunlight. In order to mitigate direct sunlight from the hot west, a “wood screen” provides shade without compromising visibility but rather enticing exploration. The resulting space is the stairway to the second floor. The East facade welcomes the warm morning sun with its big windows and views, which also would lead to a reduction in energy consumption caused by the use of artificial lighting.
 
 ---
