@@ -10,15 +10,7 @@ description: "Franco Andrews is a full service architectural design agency, prov
 # Team names, titles and social links
 people:
 - name:
-  pic:
   position:
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
 
 - name: Christian Franco
   pic: 1
@@ -32,15 +24,8 @@ people:
       url: #
 
 - name:
-  pic:
   position:
   social:
-    - title: 
-      url:
-    - title:
-      url:
-    - title:
-      url:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #social:
