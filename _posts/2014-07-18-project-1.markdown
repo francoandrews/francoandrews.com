@@ -1,5 +1,5 @@
 ---
-title: Residential development
+title: Residential Development
 subtitle: Architectural Design
 layout: default
 modal-id: 1
