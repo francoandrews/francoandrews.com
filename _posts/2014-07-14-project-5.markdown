@@ -10,6 +10,6 @@ alt: image-alt
 project-date: April 2020
 client: Undisclosed
 category: Architectural Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: It's amazing to see what a new face can do for an old house. A lot of times, a plan works well but a little bit of flare can boost it's curb appeal and the home's overall value along with it. This particular design was created for a duplex located in Alpharetta, GA. 
 
 ---
