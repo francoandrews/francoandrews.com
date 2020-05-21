@@ -10,6 +10,6 @@ alt: image-alt
 project-date: May 2015
 client: National Homebuilder
 category: Architectural Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: A National Homebuilder was in need of a modern Cape Dutch inspired single family residence to add in to their offerings for a community in Naples Florida. This design was created based on a preexisting floorplan and elevated the exterior space by creating a courtyard that extends outdoor living and celebrates the front of the home.
 
 ---
