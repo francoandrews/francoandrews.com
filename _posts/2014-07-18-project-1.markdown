@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2018-2020
 client: National Homebuilder
 category: Architectural Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: While working under the banner of a National Homebuilder, we designed multiple townhouses and condos for this development. Each design was unique and taylored to a specific user profile. The entire project contains 368 residential units, most of which were designed by our team. 
 
 ---
