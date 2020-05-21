@@ -10,6 +10,6 @@ alt: image-alt
 project-date: May 2018
 client: National Homebuilder
 category: Architectural Design
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: In order to convey a sense of modernity and curiosity, this residential sales center was designed as a temporary structure from a pair of prefabricated trailers as a base structure. The vertical pergola was oriented and spaced such that when the visitor arrived at the community, the company's logo would be visible.
 
 ---
